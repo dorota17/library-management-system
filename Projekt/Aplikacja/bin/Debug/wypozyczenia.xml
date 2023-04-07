@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWypozyczenie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Wypozyczenie>
+    <Czytelnik>
+      <Id>2</Id>
+      <Imie>Karol</Imie>
+      <Nazwisko>Krawczyk</Nazwisko>
+      <Plec>M</Plec>
+      <Wiek>45</Wiek>
+      <NumerTelefonu>987654321</NumerTelefonu>
+      <Email>karolk@gmail.com</Email>
+    </Czytelnik>
+    <Ksiazka>
+      <Isbn>978-83-800-8211-3</Isbn>
+      <Tytul>Harry Potter i kamień filozoficzny</Tytul>
+      <Autor>
+        <Id>1</Id>
+        <Imie>J.K.</Imie>
+        <Nazwisko>Rowling</Nazwisko>
+        <Plec>K</Plec>
+      </Autor>
+      <Gatunek>
+        <Nazwa>Fantastyka</Nazwa>
+      </Gatunek>
+      <RokWydania>2015</RokWydania>
+      <LiczbaOgolem>2</LiczbaOgolem>
+      <LiczbaDostepnych>1</LiczbaDostepnych>
+      <Wydawnictwo>
+        <Nazwa>Znak</Nazwa>
+        <Ulica>Tadeusza Kościuszki 37</Ulica>
+        <Miasto>Kraków</Miasto>
+        <KodPocztowy>30-105</KodPocztowy>
+      </Wydawnictwo>
+    </Ksiazka>
+    <DataWypozyczenia>2023-01-22T00:00:00+01:00</DataWypozyczenia>
+  </Wypozyczenie>
+  <Wypozyczenie>
+    <Czytelnik>
+      <Id>1</Id>
+      <Imie>Anna</Imie>
+      <Nazwisko>Kowalska</Nazwisko>
+      <Plec>K</Plec>
+      <Wiek>24</Wiek>
+      <NumerTelefonu>123456789</NumerTelefonu>
+      <Email>kowalska@gmail.com</Email>
+    </Czytelnik>
+    <Ksiazka>
+      <Isbn>978-83-813-9268-6</Isbn>
+      <Tytul>Gdzie śpiewają raki</Tytul>
+      <Autor>
+        <Id>3</Id>
+        <Imie>Delia</Imie>
+        <Nazwisko>Owens</Nazwisko>
+        <Plec>K</Plec>
+      </Autor>
+      <Gatunek>
+        <Nazwa>Literatura piękna</Nazwa>
+      </Gatunek>
+      <RokWydania>2020</RokWydania>
+      <LiczbaOgolem>1</LiczbaOgolem>
+      <LiczbaDostepnych>0</LiczbaDostepnych>
+      <Wydawnictwo>
+        <Nazwa>Znak</Nazwa>
+        <Ulica>Tadeusza Kościuszki 37</Ulica>
+        <Miasto>Kraków</Miasto>
+        <KodPocztowy>30-105</KodPocztowy>
+      </Wydawnictwo>
+    </Ksiazka>
+    <DataWypozyczenia>2023-01-22T00:00:00+01:00</DataWypozyczenia>
+  </Wypozyczenie>
+  <Wypozyczenie>
+    <Czytelnik>
+      <Id>3</Id>
+      <Imie>Katarzyna</Imie>
+      <Nazwisko>Górka</Nazwisko>
+      <Plec>K</Plec>
+      <Wiek>27</Wiek>
+      <NumerTelefonu>334455667</NumerTelefonu>
+      <Email>kagorka@gmail.com</Email>
+    </Czytelnik>
+    <Ksiazka>
+      <Isbn>978-83-244-0205-2</Isbn>
+      <Tytul>Hobbit</Tytul>
+      <Autor>
+        <Id>4</Id>
+        <Imie>J.R.R.</Imie>
+        <Nazwisko>Tolkien</Nazwisko>
+        <Plec>M</Plec>
+      </Autor>
+      <Gatunek>
+        <Nazwa>Fantastyka</Nazwa>
+      </Gatunek>
+      <RokWydania>2008</RokWydania>
+      <LiczbaOgolem>1</LiczbaOgolem>
+      <LiczbaDostepnych>0</LiczbaDostepnych>
+      <Wydawnictwo>
+        <Nazwa>Albatros</Nazwa>
+        <Ulica>Prymasa Augusta Hlonda 2a/25</Ulica>
+        <Miasto>Warszawa</Miasto>
+        <KodPocztowy>02-972</KodPocztowy>
+      </Wydawnictwo>
+    </Ksiazka>
+    <DataWypozyczenia>2023-01-22T00:00:00+01:00</DataWypozyczenia>
+  </Wypozyczenie>
+</ArrayOfWypozyczenie>

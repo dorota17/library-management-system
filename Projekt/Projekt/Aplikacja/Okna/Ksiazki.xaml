@@ -1,0 +1,47 @@
+﻿<Window x:Class="Aplikacja.Okna.Ksiazki"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplikacja.Okna"
+        mc:Ignorable="d"
+        Title="Ksiazki" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Frame Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Background="#FF6C83CE"/>
+
+        <Label Content="Książki" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="40" Foreground="White"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" VerticalAlignment="Center">
+            <Button Content="Dodaj" Padding="5" FontFamily="Bahnschrift SemiLight" FontSize="20" Foreground="White" Margin="0 10" BorderThickness="0" Background="#FF4CC35C" Click="Dodaj"/>
+            <Button Content="Edytuj" Padding="5" FontFamily="Bahnschrift SemiLight" FontSize="20" Foreground="White" Margin="0 10" BorderThickness="0" Background="#FF25C9C9" Click="Edytuj"/>
+            <Button Content="Usuń" Padding="5" FontFamily="Bahnschrift SemiLight" FontSize="20" Foreground="White" Margin="0 10" BorderThickness="0" Background="#FFEE4A4A" Click="Usun"/>
+        </StackPanel>
+
+        <ListView x:Name="ksiazkiLst" Grid.Row="0" Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Stretch">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="ISBN" DisplayMemberBinding="{Binding Isbn}"/>
+                        <GridViewColumn Header="Tytuł" DisplayMemberBinding="{Binding Tytul}"/>
+                        <GridViewColumn Header="Autor" DisplayMemberBinding="{Binding Autor}"/>
+                        <GridViewColumn Header="Gatunek" DisplayMemberBinding="{Binding Gatunek}"/>
+                        <GridViewColumn Header="Rok wydania" DisplayMemberBinding="{Binding RokWydania}"/>
+                        <GridViewColumn Header="Wydawnictwo" DisplayMemberBinding="{Binding Wydawnictwo.Nazwa}"/>
+                        <GridViewColumn Header="Liczba ogółem" DisplayMemberBinding="{Binding LiczbaOgolem}"/>
+                        <GridViewColumn Header="Liczba dostępnych" DisplayMemberBinding="{Binding LiczbaDostepnych}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

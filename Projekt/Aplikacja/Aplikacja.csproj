@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5AE67437-72BD-4D51-8C18-628CDFE927F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Aplikacja</RootNamespace>
+    <AssemblyName>Aplikacja</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="Okna\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Okna\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Okna\Autorzy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Czytelnicy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\DodajEdytujAutora.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\DodajEdytujCzytelnika.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\DodajEdytujGatunek.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\DodajEdytujKsiazke.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\DodajEdytujWydawnictwo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Gatunki.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Ksiazki.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\ListaCzytelnikow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\ListaKsiazek.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Wydawnictwa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Wypozycz.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Okna\Zwrot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Okna\Autorzy.xaml.cs">
+      <DependentUpon>Autorzy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Czytelnicy.xaml.cs">
+      <DependentUpon>Czytelnicy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\DodajEdytujAutora.xaml.cs">
+      <DependentUpon>DodajEdytujAutora.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\DodajEdytujCzytelnika.xaml.cs">
+      <DependentUpon>DodajEdytujCzytelnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\DodajEdytujGatunek.xaml.cs">
+      <DependentUpon>DodajEdytujGatunek.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\DodajEdytujKsiazke.xaml.cs">
+      <DependentUpon>DodajEdytujKsiazke.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\DodajEdytujWydawnictwo.xaml.cs">
+      <DependentUpon>DodajEdytujWydawnictwo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Gatunki.xaml.cs">
+      <DependentUpon>Gatunki.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Ksiazki.xaml.cs">
+      <DependentUpon>Ksiazki.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\ListaCzytelnikow.xaml.cs">
+      <DependentUpon>ListaCzytelnikow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\ListaKsiazek.xaml.cs">
+      <DependentUpon>ListaKsiazek.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Wydawnictwa.xaml.cs">
+      <DependentUpon>Wydawnictwa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Wypozycz.xaml.cs">
+      <DependentUpon>Wypozycz.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Okna\Zwrot.xaml.cs">
+      <DependentUpon>Zwrot.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bibl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Projekt\Projekt.csproj">
+      <Project>{16674ab3-9f4f-4e5e-a2be-46658a2e6b4e}</Project>
+      <Name>Projekt</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

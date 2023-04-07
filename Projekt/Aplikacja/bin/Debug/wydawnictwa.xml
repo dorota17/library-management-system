@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWydawnictwo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Wydawnictwo>
+    <Nazwa>Znak</Nazwa>
+    <Ulica>Tadeusza Kościuszki 37</Ulica>
+    <Miasto>Kraków</Miasto>
+    <KodPocztowy>30-105</KodPocztowy>
+  </Wydawnictwo>
+  <Wydawnictwo>
+    <Nazwa>Świat Książki</Nazwa>
+    <Ulica>Stefana Kazimierza Hankiewicza 2</Ulica>
+    <Miasto>Warszawa</Miasto>
+    <KodPocztowy>02-103</KodPocztowy>
+  </Wydawnictwo>
+  <Wydawnictwo>
+    <Nazwa>Albatros</Nazwa>
+    <Ulica>Prymasa Augusta Hlonda 2a/25</Ulica>
+    <Miasto>Warszawa</Miasto>
+    <KodPocztowy>02-972</KodPocztowy>
+  </Wydawnictwo>
+</ArrayOfWydawnictwo>

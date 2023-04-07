@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKsiazka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ksiazka>
+    <Isbn>978-83-800-8211-3</Isbn>
+    <Tytul>Harry Potter i kamień filozoficzny</Tytul>
+    <Autor>
+      <Id>1</Id>
+      <Imie>J.K.</Imie>
+      <Nazwisko>Rowling</Nazwisko>
+      <Plec>K</Plec>
+    </Autor>
+    <Gatunek>
+      <Nazwa>Fantastyka</Nazwa>
+    </Gatunek>
+    <RokWydania>2015</RokWydania>
+    <LiczbaOgolem>2</LiczbaOgolem>
+    <LiczbaDostepnych>1</LiczbaDostepnych>
+    <Wydawnictwo>
+      <Nazwa>Znak</Nazwa>
+      <Ulica>Tadeusza Kościuszki 37</Ulica>
+      <Miasto>Kraków</Miasto>
+      <KodPocztowy>30-105</KodPocztowy>
+    </Wydawnictwo>
+  </Ksiazka>
+  <Ksiazka>
+    <Isbn>978-83-813-9268-6</Isbn>
+    <Tytul>Gdzie śpiewają raki</Tytul>
+    <Autor>
+      <Id>3</Id>
+      <Imie>Delia</Imie>
+      <Nazwisko>Owens</Nazwisko>
+      <Plec>K</Plec>
+    </Autor>
+    <Gatunek>
+      <Nazwa>Literatura piękna</Nazwa>
+    </Gatunek>
+    <RokWydania>2020</RokWydania>
+    <LiczbaOgolem>1</LiczbaOgolem>
+    <LiczbaDostepnych>0</LiczbaDostepnych>
+    <Wydawnictwo>
+      <Nazwa>Znak</Nazwa>
+      <Ulica>Tadeusza Kościuszki 37</Ulica>
+      <Miasto>Kraków</Miasto>
+      <KodPocztowy>30-105</KodPocztowy>
+    </Wydawnictwo>
+  </Ksiazka>
+  <Ksiazka>
+    <Isbn>978-83-727-8357-8</Isbn>
+    <Tytul>Igrzyska śmierci</Tytul>
+    <Autor>
+      <Id>2</Id>
+      <Imie>Suzanne</Imie>
+      <Nazwisko>Collins</Nazwisko>
+      <Plec>K</Plec>
+    </Autor>
+    <Gatunek>
+      <Nazwa>Powieść</Nazwa>
+    </Gatunek>
+    <RokWydania>2014</RokWydania>
+    <LiczbaOgolem>1</LiczbaOgolem>
+    <LiczbaDostepnych>1</LiczbaDostepnych>
+    <Wydawnictwo>
+      <Nazwa>Znak</Nazwa>
+      <Ulica>Tadeusza Kościuszki 37</Ulica>
+      <Miasto>Kraków</Miasto>
+      <KodPocztowy>30-105</KodPocztowy>
+    </Wydawnictwo>
+  </Ksiazka>
+  <Ksiazka>
+    <Isbn>978-83-244-0205-2</Isbn>
+    <Tytul>Hobbit</Tytul>
+    <Autor>
+      <Id>4</Id>
+      <Imie>J.R.R.</Imie>
+      <Nazwisko>Tolkien</Nazwisko>
+      <Plec>M</Plec>
+    </Autor>
+    <Gatunek>
+      <Nazwa>Fantastyka</Nazwa>
+    </Gatunek>
+    <RokWydania>2008</RokWydania>
+    <LiczbaOgolem>1</LiczbaOgolem>
+    <LiczbaDostepnych>0</LiczbaDostepnych>
+    <Wydawnictwo>
+      <Nazwa>Albatros</Nazwa>
+      <Ulica>Prymasa Augusta Hlonda 2a/25</Ulica>
+      <Miasto>Warszawa</Miasto>
+      <KodPocztowy>02-972</KodPocztowy>
+    </Wydawnictwo>
+  </Ksiazka>
+  <Ksiazka>
+    <Isbn>978-83-287-0078-9</Isbn>
+    <Tytul>Władca pierścieni</Tytul>
+    <Autor>
+      <Id>4</Id>
+      <Imie>J.R.R.</Imie>
+      <Nazwisko>Tolkien</Nazwisko>
+      <Plec>M</Plec>
+    </Autor>
+    <Gatunek>
+      <Nazwa>Fantastyka</Nazwa>
+    </Gatunek>
+    <RokWydania>2013</RokWydania>
+    <LiczbaOgolem>2</LiczbaOgolem>
+    <LiczbaDostepnych>2</LiczbaDostepnych>
+    <Wydawnictwo>
+      <Nazwa>Znak</Nazwa>
+      <Ulica>Tadeusza Kościuszki 37</Ulica>
+      <Miasto>Kraków</Miasto>
+      <KodPocztowy>30-105</KodPocztowy>
+    </Wydawnictwo>
+  </Ksiazka>
+</ArrayOfKsiazka>

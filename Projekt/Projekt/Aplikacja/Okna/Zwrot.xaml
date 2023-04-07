@@ -1,0 +1,51 @@
+﻿<Window x:Class="Aplikacja.Okna.Zwrot"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplikacja.Okna"
+        mc:Ignorable="d"
+        Title="Zwrot" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="0">
+            <Label Content="ISBN" Height="30" FontFamily="Bahnschrift SemiLight" HorizontalContentAlignment="Right" Background="#FFD9E3E3" Margin="0,15,0,0" FontSize="15"/>
+            <Label Content="ID czytelnika" Height="30" FontFamily="Bahnschrift SemiLight" HorizontalContentAlignment="Right" Background="#FFD9E3E3" Margin="0,15,0,0" FontSize="15"/>
+
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <TextBox x:Name="isbnTxt" Height="30" FontFamily="Bahnschrift SemiLight" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" BorderBrush="Gray" Margin="0,15,0,0" FontSize="13" TextChanged="Filtruj"/>
+            <TextBox x:Name="czytTxt" Height="30" FontFamily="Bahnschrift SemiLight" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" BorderBrush="Gray" Margin="0,15,0,0" FontSize="13" TextChanged="Filtruj"/>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="0" Grid.Column="2"/>
+        <StackPanel Grid.Row="0" Grid.Column="3">
+            <Button Grid.Row="0" Grid.Column="2" Height="30" VerticalAlignment="Top" Content="Wybierz z listy" Margin="0,15,0,0" Background="#FF25C9C9" Foreground="White" FontFamily="Bahnschrift SemiLight" FontSize="17" Click="WybierzKsiazke"/>
+            <Button Grid.Row="0" Grid.Column="2" Height="30" VerticalAlignment="Top" Content="Wybierz z listy" Margin="0,15,0,0" Background="#FF25C9C9" Foreground="White" FontFamily="Bahnschrift SemiLight" FontSize="17" Click="WybierzCzytelnika"/>
+        </StackPanel>
+        <Button Grid.Row="2" Grid.ColumnSpan="4" Height="30" VerticalAlignment="Top" Content="Zwróć" Margin="0,15,0,0" Background="#FFEFFF40" Foreground="Black" FontFamily="Bahnschrift SemiLight" FontSize="17" Click="Zwroc"/>
+        <ListView x:Name="wypozyczeniaLst" Grid.Row="1" Grid.ColumnSpan="4" HorizontalAlignment="Stretch">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="ISBN" DisplayMemberBinding="{Binding Ksiazka.Isbn}"/>
+                        <GridViewColumn Header="Tytuł" DisplayMemberBinding="{Binding Ksiazka.Tytul}"/>
+                        <GridViewColumn Header="Autor" DisplayMemberBinding="{Binding Ksiazka.Autor}"/>
+                        <GridViewColumn Header="Czytelnik" DisplayMemberBinding="{Binding Czytelnik.Id}"/>
+                        <GridViewColumn Header="Data wypożyczenia" DisplayMemberBinding="{Binding DataWypozyczenia, StringFormat={}{0:dd-MM-yyyy}}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

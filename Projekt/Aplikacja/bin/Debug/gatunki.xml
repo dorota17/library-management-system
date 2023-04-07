@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGatunek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gatunek>
+    <Nazwa>Fantastyka</Nazwa>
+  </Gatunek>
+  <Gatunek>
+    <Nazwa>Kryminał</Nazwa>
+  </Gatunek>
+  <Gatunek>
+    <Nazwa>Biografia</Nazwa>
+  </Gatunek>
+  <Gatunek>
+    <Nazwa>Literatura piękna</Nazwa>
+  </Gatunek>
+  <Gatunek>
+    <Nazwa>Powieść</Nazwa>
+  </Gatunek>
+</ArrayOfGatunek>

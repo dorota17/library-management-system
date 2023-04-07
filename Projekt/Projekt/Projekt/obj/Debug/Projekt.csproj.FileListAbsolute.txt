@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\HP\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\HP\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\HP\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\HP\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Projekt\obj\Debug\Projekt.pdb

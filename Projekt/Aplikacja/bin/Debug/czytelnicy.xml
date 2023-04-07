@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCzytelnik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Czytelnik>
+    <Id>1</Id>
+    <Imie>Anna</Imie>
+    <Nazwisko>Kowalska</Nazwisko>
+    <Plec>K</Plec>
+    <Wiek>24</Wiek>
+    <NumerTelefonu>123456789</NumerTelefonu>
+    <Email>kowalska@gmail.com</Email>
+  </Czytelnik>
+  <Czytelnik>
+    <Id>2</Id>
+    <Imie>Karol</Imie>
+    <Nazwisko>Krawczyk</Nazwisko>
+    <Plec>M</Plec>
+    <Wiek>45</Wiek>
+    <NumerTelefonu>987654321</NumerTelefonu>
+    <Email>karolk@gmail.com</Email>
+  </Czytelnik>
+  <Czytelnik>
+    <Id>3</Id>
+    <Imie>Katarzyna</Imie>
+    <Nazwisko>Górka</Nazwisko>
+    <Plec>K</Plec>
+    <Wiek>27</Wiek>
+    <NumerTelefonu>334455667</NumerTelefonu>
+    <Email>kagorka@gmail.com</Email>
+  </Czytelnik>
+</ArrayOfCzytelnik>

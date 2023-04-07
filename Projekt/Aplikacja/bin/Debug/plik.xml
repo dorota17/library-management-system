@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ksiazka xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Isbn>978-83-244-0353-0</Isbn>
+  <Tytul>Pan Tadeusz</Tytul>
+  <Autor>
+    <Id>1</Id>
+    <Imie>Adam</Imie>
+    <Nazwisko>Mickiewicz</Nazwisko>
+    <Plec>M</Plec>
+  </Autor>
+  <Gatunek>
+    <Nazwa>Dramat</Nazwa>
+  </Gatunek>
+  <RokWydania>1987</RokWydania>
+  <Dostepna>true</Dostepna>
+  <LiczbaOgolem>2</LiczbaOgolem>
+  <LiczbaDostepnych>2</LiczbaDostepnych>
+  <Wydawnictwo>
+    <Nazwa>Albatros</Nazwa>
+    <Ulica>Długa 11</Ulica>
+    <Miasto>Warszawa</Miasto>
+    <KodPocztowy>30-053</KodPocztowy>
+  </Wydawnictwo>
+</Ksiazka>

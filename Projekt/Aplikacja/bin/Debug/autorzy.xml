@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAutor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Autor>
+    <Id>1</Id>
+    <Imie>J.K.</Imie>
+    <Nazwisko>Rowling</Nazwisko>
+    <Plec>K</Plec>
+  </Autor>
+  <Autor>
+    <Id>2</Id>
+    <Imie>Suzanne</Imie>
+    <Nazwisko>Collins</Nazwisko>
+    <Plec>K</Plec>
+  </Autor>
+  <Autor>
+    <Id>3</Id>
+    <Imie>Delia</Imie>
+    <Nazwisko>Owens</Nazwisko>
+    <Plec>K</Plec>
+  </Autor>
+  <Autor>
+    <Id>4</Id>
+    <Imie>J.R.R.</Imie>
+    <Nazwisko>Tolkien</Nazwisko>
+    <Plec>M</Plec>
+  </Autor>
+</ArrayOfAutor>

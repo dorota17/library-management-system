@@ -1,0 +1,668 @@
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\source\repos\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\source\repos\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\Projekt-3\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\beata\Desktop\Projekt zaliczeniowy C#\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+F:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+F:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+G:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+G:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+D:\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+D:\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\HP\Downloads\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-1-2-1\Projekt-1\Projekt (1)\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\beata\Desktop\Projekt c#\Projekt (4)\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaGatunkow.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (7)\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\Komputer\Downloads\Projekt-8\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe.config
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Aplikacja.pdb
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Projekt.exe
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Projekt.pdb
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\bin\Debug\Projekt.exe.config
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\App.g.cs
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.cache
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja_MarkupCompile.lref
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Autorzy.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Czytelnicy.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujAutora.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujCzytelnika.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujGatunek.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujKsiazke.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\DodajEdytujWydawnictwo.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Gatunki.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Ksiazki.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\ListaCzytelnikow.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\ListaKsiazek.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Wydawnictwa.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Wypozycz.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Okna\Zwrot.baml
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.g.resources
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.Properties.Resources.resources
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.exe
+C:\Users\HP\Downloads\Projekt (10)\Projekt\Aplikacja\obj\Debug\Aplikacja.pdb
